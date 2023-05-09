@@ -9,14 +9,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
-        <android.support.v7.widget.AppCompatImageView
+        <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/outer_pin_view"
             android:layout_width="56dp"
             android:layout_height="56dp"
             android:layout_centerInParent="true"
             android:scaleType="centerInside"/>
 
-        <android.support.v7.widget.AppCompatImageView
+        <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/inner_pin_view"
             android:layout_width="56dp"
             android:layout_height="56dp"

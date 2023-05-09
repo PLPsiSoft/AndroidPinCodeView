@@ -5,10 +5,10 @@ import android.graphics.Color
 import android.graphics.drawable.Drawable
 import android.os.Build
 import android.os.Handler
-import android.support.annotation.ColorInt
-import android.support.annotation.RequiresApi
-import android.support.v4.content.ContextCompat
-import android.support.v7.widget.AppCompatEditText
+import androidx.annotation.ColorInt
+import androidx.annotation.RequiresApi
+import androidx.core.content.ContextCompat
+import androidx.appcompat.widget.AppCompatEditText
 import android.text.Editable
 import android.text.InputFilter
 import android.text.TextWatcher

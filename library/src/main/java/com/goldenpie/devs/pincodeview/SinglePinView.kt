@@ -2,8 +2,8 @@ package com.goldenpie.devs.pincodeview
 
 import android.content.Context
 import android.os.Build
-import android.support.annotation.RequiresApi
-import android.support.v7.widget.AppCompatImageView
+import androidx.annotation.RequiresApi
+import androidx.appcompat.widget.AppCompatImageView
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
